@@ -1,0 +1,45 @@
+.App {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.search__section{
+  margin: 20px 0px;
+}
+.search__box{
+  padding: 3px 10px;
+}
+.search__btn{
+  background: tomato;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+.recipe__card{
+  border:1px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+  width: 350px;
+  height: auto;
+  margin: 20px auto;
+  padding: 15px 10px;
+}
+.recipe__title{
+  font-weight: 500;
+  font-size: 16px;
+}
+.recipe__calorie{
+  font-weight: 450;
+  font-size: 14px;
+}
+.recipe__card img{
+  width: 200px;
+  height: auto;
+}
+.recipe__ingredients{
+  font-size: 12px;
+}
+ol{
+  width: 280px;
+  margin: 10px auto;
+}
